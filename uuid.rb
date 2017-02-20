@@ -1,4 +1,4 @@
-class OsspUuid < Formula
+class Uuid < Formula
   desc "ISO-C API and CLI for generating UUIDs"
   homepage "http://www.ossp.org/pkg/lib/uuid/"
   url "https://mirrors.ocf.berkeley.edu/debian/pool/main/o/ossp-uuid/ossp-uuid_1.6.2.orig.tar.gz"
